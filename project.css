@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(5, 5, 5);
+}
+.main-1{
+    display:flex;
+    justify-content: space-around;
+    margin-top:30px;
+}
+.main-2{
+    display:flex;
+    justify-content:space-evenly;
+    margin-top:40px;
+    margin-bottom: 10px;
+
+}
+.nav-link{
+    color:wheat;
+    font-weight:500;
+    font-size: 20px;
+    transition:.3s;
+}
+.nav-link:hover{
+    color:black;
+    font-size:25px;
+    box-sizing: border-box;
+    background-color: aquamarine;
+    border-radius: 4px;
+}
+
+

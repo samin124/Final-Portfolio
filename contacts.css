@@ -14,20 +14,22 @@ body{
     margin-top:20px;
     font-size: 20px;
     color:white;
+    margin-left: 100px;
 }
 img{
     height:300px;
     width:300px;
-    margin-left: 55px;
+    margin-left: 120px;
     margin-top: 70px;
     border-radius: 50%;
 }
 h1{
     color:white;
     font-size: 50px;
+    margin-top: 20px;
 }
 .div-2{
-    height:400px;
+    height:450px;
     width:600px;
     border:2px solid rgb(253, 253, 253);
     text-align: center;
@@ -70,11 +72,7 @@ button{
 h4{
     margin-top: 30px;
 }
-hr{
-    background-color: rgb(255, 255, 255);
-    width:200px;
-    margin-top: 200px;
-}
+
 .nav-link{
     color:wheat;
     font-weight:500;
