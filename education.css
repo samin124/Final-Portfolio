@@ -34,7 +34,7 @@ body{
     height:350px;
     width:320px;
     border-top:none;
-    text-align: center;
+    text-align:left;
     border-radius: 6px;
     background-color: rgb(63, 74, 176);
     padding: 10px;
@@ -59,7 +59,7 @@ hr{
     background-color: aquamarine;
     border-radius: 4px;
 }
-p{
-    text-align:center;
+i{
+    padding:5px;
 }
 
