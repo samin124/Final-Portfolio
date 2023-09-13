@@ -1,0 +1,29 @@
+.main{
+    text-align: center;
+}
+img{
+    height:400px;
+    width:400px;
+    border:2px solid black;
+    padding:20px;
+    margin-top: 50px;
+}
+body{
+    background-color: rgb(117, 158, 161);
+}
+
+
+
+.nav-link{
+    color:wheat;
+    font-weight:500;
+    font-size: 20px;
+    transition:.3s;
+}
+.nav-link:hover{
+    color:black;
+    font-size:25px;
+    box-sizing: border-box;
+    background-color: aquamarine;
+    border-radius: 4px;
+}
